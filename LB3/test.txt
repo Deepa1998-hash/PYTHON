@@ -1,0 +1,1 @@
+Python can be used on a server to create web applications.PYTHON CAN BE CONNECT TO DATABASE SYSTEMS ,IT CAN ALSO READ AND MODIFY FILES
